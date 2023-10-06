@@ -23,15 +23,15 @@ The following technologies are used in this project:
 - PyMySql: A Python library used for SQL database connectivity and interaction.
 - PyMongo: A Python library used for MongoDB database connectivity and interaction.
 - Pandas: A data manipulation library used for data processing and analysis.
-- RegularExpression :RegularExpression is a built-in module in Python that provides support for working with regular expressions, which are powerful tools for pattern matching and text manipulation.
+- RegularExpression :A Python library used for working with regular expressions, which are powerful tools for pattern matching and text manipulation.
 - DateTime :Python Datetime module supplies classes to work with date and time.
 - CSS : Cascading Style Sheets is a language used for laying out and structuring web pages.
   
 **Installation and Setup**
 
-To run the YouTube Data Harvesting and Warehousing project, follow these steps:
+To run this project, follow these steps:
 1. Install Python: Install the Python programming language on your machine.
-2. Install Required Libraries: Install the necessary Python libraries using pip or conda package manager.
+2. Install Required Libraries: Install the necessary Python libraries using pip install.
 3. Set Up Google API: Set up a Google API project and obtain the necessary API credentials for accessing the YouTube API.
 4. Configure Database: Set up a MongoDB database and SQL database (MySQL) for storing the data.
 5. Configure Application: Update the configuration file or environment variables with the necessary API credentials and database connection details.
